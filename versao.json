@@ -1,9 +1,9 @@
 {
-  "versionCode": 4,
-  "versionName": "1.3.0",
-  "notes": "Doação via PIX (copia e cola); notificações mostram só o capítulo mais recente de cada favorito, com contador na aba; ajuste visual na tela da obra.",
+  "versionCode": 5,
+  "versionName": "1.4.0",
+  "notes": "Idioma do app (Português/Inglês): a interface inteira agora muda de idioma em Perfil > Idioma do app.",
   "apk": {
-    "geral": "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.3.0/app-geral-release.apk",
-    "adulto": "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.3.0/app-adulto-release.apk"
+    "geral": "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.4.0/app-geral-release.apk",
+    "adulto": "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.4.0/app-adulto-release.apk"
   }
 }
