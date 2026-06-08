@@ -1,9 +1,9 @@
 {
-  "versionCode": 3,
-  "versionName": "1.2.0",
-  "notes": "Novels (NovelMania e Tsundoku) + leitor de texto, obras duplicadas agrupadas com troca de fonte/idioma, abas PT-BR/EN nos capítulos, correção do LycanToons (AVIF), doação PayPal, sugestões/bugs e novidades.",
+  "versionCode": 4,
+  "versionName": "1.3.0",
+  "notes": "Doação via PIX (copia e cola); notificações mostram só o capítulo mais recente de cada favorito, com contador na aba; ajuste visual na tela da obra.",
   "apk": {
-    "geral": "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.2.0/app-geral-release.apk",
-    "adulto": "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.2.0/app-adulto-release.apk"
+    "geral": "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.3.0/app-geral-release.apk",
+    "adulto": "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.3.0/app-adulto-release.apk"
   }
 }
