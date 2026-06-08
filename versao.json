@@ -1,7 +1,7 @@
 {
   "versionCode": 7,
   "versionName": "1.5.0",
-  "notes": "Seletor de fontes (icone de camadas na Home/Explorar/Busca): escolha de qual fonte ver as obras, incluindo as de novels (NovelMania e Tsundoku). Agora da para navegar e ler light/web novels direto.",
+  "notes": "Seletor de fontes (icone de camadas na Home/Explorar/Busca): escolha de qual fonte ver as obras, incluindo as fontes de novels. Agora da para navegar e ler light/web novels direto.",
   "apk": {
     "geral": "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.5.0/app-geral-release.apk",
     "adulto": "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.5.0/app-adulto-release.apk"
