@@ -1,9 +1,9 @@
 {
-  "versionCode": 8,
-  "versionName": "1.6.0",
-  "notes": "Filtros de Light Novel e Web Novel na Home e no Explorar (alem de Manga/Manhwa/Manhua). No leitor, botao \"Voltar ao titulo\": no menu lateral e ao chegar no fim, quando nao ha capitulos novos.",
+  "versionCode": 9,
+  "versionName": "1.6.1",
+  "notes": "Agora as obras de todas as fontes aparecem juntas — voce nao precisa mais escolher a fonte. Corrigido o carregamento de paginas de algumas obras que apareciam quebradas.",
   "apk": {
-    "geral": "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.6.0/app-geral-release.apk",
-    "adulto": "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.6.0/app-adulto-release.apk"
+    "geral": "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.6.1/app-geral-release.apk",
+    "adulto": "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.6.1/app-adulto-release.apk"
   }
 }
