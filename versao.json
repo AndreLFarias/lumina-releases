@@ -1,9 +1,9 @@
 {
-  "versionCode": 9,
-  "versionName": "1.6.1",
-  "notes": "Agora as obras de todas as fontes aparecem juntas — voce nao precisa mais escolher a fonte. Corrigido o carregamento de paginas de algumas obras que apareciam quebradas.",
+  "versionCode": 10,
+  "versionName": "1.7.0",
+  "notes": "Tela inicial: botao para ver as obras mais recentes em ordem de lancamento. Explorar: ordenacao de A a Z e filtro por letra inicial. Limpeza de obras de uma fonte desativada que apareciam quebradas.",
   "apk": {
-    "geral": "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.6.1/app-geral-release.apk",
-    "adulto": "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.6.1/app-adulto-release.apk"
+    "geral": "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.7.0/app-geral-release.apk",
+    "adulto": "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.7.0/app-adulto-release.apk"
   }
 }
