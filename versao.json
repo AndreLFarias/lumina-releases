@@ -1,9 +1,9 @@
 {
-  "versionCode": 10,
-  "versionName": "1.7.0",
-  "notes": "Tela inicial: botao para ver as obras mais recentes em ordem de lancamento. Explorar: ordenacao de A a Z e filtro por letra inicial. Limpeza de obras de uma fonte desativada que apareciam quebradas.",
+  "versionCode": 11,
+  "versionName": "1.8.0",
+  "notes": "Temas: escolha o visual do app em Perfil > Aparencia - Claro, Escuro, AMOLED (preto puro, economiza bateria em telas OLED) ou seguir o tema do sistema. A cor de destaque continua escolhivel.",
   "apk": {
-    "geral": "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.7.0/app-geral-release.apk",
-    "adulto": "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.7.0/app-adulto-release.apk"
+    "geral": "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.8.0/app-geral-release.apk",
+    "adulto": "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.8.0/app-adulto-release.apk"
   }
 }
