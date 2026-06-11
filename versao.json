@@ -1,9 +1,9 @@
 {
-  "versionCode": 11,
-  "versionName": "1.8.0",
-  "notes": "Temas: escolha o visual do app em Perfil > Aparencia - Claro, Escuro, AMOLED (preto puro, economiza bateria em telas OLED) ou seguir o tema do sistema. A cor de destaque continua escolhivel.",
+  "versionCode": 12,
+  "versionName": "1.9.0",
+  "notes": "Biblioteca com a prateleira 'Completo'. Explorar com filtro por genero. Aviso quando uma fonte esta fora do ar, com diagnostico em Perfil > Sobre. Mais partes traduzidas (PT/EN) e ajustes nos filtros.",
   "apk": {
-    "geral": "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.8.0/app-geral-release.apk",
-    "adulto": "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.8.0/app-adulto-release.apk"
+    "geral": "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.9.0/app-geral-release.apk",
+    "adulto": "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.9.0/app-adulto-release.apk"
   }
 }
