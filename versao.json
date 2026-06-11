@@ -1,9 +1,9 @@
 {
-  "versionCode": 12,
-  "versionName": "1.9.0",
-  "notes": "Biblioteca com a prateleira 'Completo'. Explorar com filtro por genero. Aviso quando uma fonte esta fora do ar, com diagnostico em Perfil > Sobre. Mais partes traduzidas (PT/EN) e ajustes nos filtros.",
+  "versionCode": 13,
+  "versionName": "1.10.0",
+  "notes": "Notificacoes de capitulo novo: ative em Perfil > Notificacoes e receba um aviso quando uma obra salva ganhar capitulo novo. Tem um botao 'Verificar agora' para testar na hora.",
   "apk": {
-    "geral": "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.9.0/app-geral-release.apk",
-    "adulto": "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.9.0/app-adulto-release.apk"
+    "geral": "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.10.0/app-geral-release.apk",
+    "adulto": "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.10.0/app-adulto-release.apk"
   }
 }
