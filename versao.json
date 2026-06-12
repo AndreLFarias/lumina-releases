@@ -1,9 +1,9 @@
 {
-  "versionCode": 13,
-  "versionName": "1.10.0",
-  "notes": "Notificacoes de capitulo novo: ative em Perfil > Notificacoes e receba um aviso quando uma obra salva ganhar capitulo novo. Tem um botao 'Verificar agora' para testar na hora.",
+  "versionCode": 14,
+  "versionName": "1.10.1",
+  "notes": "Notificacoes mais confiaveis e economicas: checagem em segundo plano a cada ~4h e opcao de liberar o app da otimizacao de bateria (Perfil > Notificacoes) para receber avisos com o app fechado.",
   "apk": {
-    "geral": "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.10.0/app-geral-release.apk",
-    "adulto": "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.10.0/app-adulto-release.apk"
+    "geral": "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.10.1/app-geral-release.apk",
+    "adulto": "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.10.1/app-adulto-release.apk"
   }
 }
