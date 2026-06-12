@@ -1,9 +1,9 @@
 {
-  "versionCode": 14,
-  "versionName": "1.10.1",
-  "notes": "Notificacoes mais confiaveis e economicas: checagem em segundo plano a cada ~4h e opcao de liberar o app da otimizacao de bateria (Perfil > Notificacoes) para receber avisos com o app fechado.",
+  "versionCode": 15,
+  "versionName": "1.10.2",
+  "notes": "Correcao importante: o app voltou a abrir normalmente. As notificacoes de capitulo novo foram temporariamente desativadas (causavam fechamento na inicializacao) e voltarao revisadas em breve.",
   "apk": {
-    "geral": "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.10.1/app-geral-release.apk",
-    "adulto": "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.10.1/app-adulto-release.apk"
+    "geral": "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.10.2/app-geral-release.apk",
+    "adulto": "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.10.2/app-adulto-release.apk"
   }
 }
