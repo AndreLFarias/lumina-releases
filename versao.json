@@ -1,9 +1,9 @@
 {
-  "versionCode": 16,
-  "versionName": "1.11.0",
-  "notes": "Agora o Lumina e um app so! O conteudo +18 fica no Perfil, liberado por senha. Tambem: fontes que estavam fora do ar voltaram a carregar, barra de navegacao em todas as telas (some so na leitura), atalho para voltar a obra durante a leitura e capitulos de versoes diferentes lado a lado. Quem tinha o app +18 separado: ele vai te guiar para o app unico.",
-  "apk": {
-    "geral": "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.11.0/lumina-1.11.0.apk",
-    "adulto": "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.11.0/lumina-migrar-1.11.0.apk"
-  }
+    "versionCode":  17,
+    "versionName":  "1.11.1",
+    "notes":  "Leitura via WebView agora mostra so a obra (bloqueia anuncios e redirecionamentos). Barra de progresso de leitura no rodape. Correcao de fonte protegida: verificacao mais confiavel (capa e capitulos voltam a carregar).",
+    "apk":  {
+                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.11.1/lumina-1.11.1.apk",
+                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.11.1/lumina-migrar-1.11.1.apk"
+            }
 }
