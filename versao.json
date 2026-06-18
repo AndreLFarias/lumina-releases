@@ -1,9 +1,9 @@
 {
-    "versionCode":  17,
-    "versionName":  "1.11.1",
-    "notes":  "Leitura via WebView agora mostra so a obra (bloqueia anuncios e redirecionamentos). Barra de progresso de leitura no rodape. Correcao de fonte protegida: verificacao mais confiavel (capa e capitulos voltam a carregar).",
+    "versionCode":  18,
+    "versionName":  "1.11.2",
+    "notes":  "Correcao: remove a tela de verificacao que travava o app em loop e impedia abrir obras/capitulos. As obras voltam a carregar normalmente. Mantida a leitura sem anuncios e a barra de progresso.",
     "apk":  {
-                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.11.1/lumina-1.11.1.apk",
-                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.11.1/lumina-migrar-1.11.1.apk"
+                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.11.2/lumina-1.11.2.apk",
+                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.11.2/lumina-migrar-1.11.2.apk"
             }
 }
