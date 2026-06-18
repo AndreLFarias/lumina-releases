@@ -1,9 +1,9 @@
 {
-    "versionCode":  18,
-    "versionName":  "1.11.2",
-    "notes":  "Correcao: remove a tela de verificacao que travava o app em loop e impedia abrir obras/capitulos. As obras voltam a carregar normalmente. Mantida a leitura sem anuncios e a barra de progresso.",
+    "versionCode":  19,
+    "versionName":  "1.11.3",
+    "notes":  "Correcao: a lista de capitulos de obras da fonte voltou a carregar (estava presa em \u0027Carregando capitulos...\u0027). Leitura via WebView, sem anuncios, e barra de progresso mantidas.",
     "apk":  {
-                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.11.2/lumina-1.11.2.apk",
-                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.11.2/lumina-migrar-1.11.2.apk"
+                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.11.3/lumina-1.11.3.apk",
+                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.11.3/lumina-migrar-1.11.3.apk"
             }
 }
