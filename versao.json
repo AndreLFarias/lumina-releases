@@ -1,9 +1,9 @@
 {
-    "versionCode":  21,
-    "versionName":  "1.11.5",
-    "notes":  "Correcao: a fonte voltou ao funcionamento original - lista de capitulos carrega e a leitura e nativa (sem anuncios e sem a tela de verificacao).",
+    "versionCode":  22,
+    "versionName":  "1.11.6",
+    "notes":  "Correcao da fonte que parou (o site reforcou o Cloudflare): catalogo, busca e detalhes voltam a carregar; a lista de capitulos e buscada por um caminho que passa pela protecao; leitura sem anuncios.",
     "apk":  {
-                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.11.5/lumina-1.11.5.apk",
-                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.11.5/lumina-migrar-1.11.5.apk"
+                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.11.6/lumina-1.11.6.apk",
+                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.11.6/lumina-migrar-1.11.6.apk"
             }
 }
