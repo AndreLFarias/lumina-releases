@@ -1,9 +1,9 @@
 {
-    "versionCode":  25,
-    "versionName":  "1.11.9",
-    "notes":  "Conteudo +18: ao travar no Perfil, o historico, os salvos e as atualizacoes deixam de mostrar obras +18 (voltam ao reativar). Leitor: barra de progresso passa a indicar a rolagem do capitulo (cheia ao chegar no fim).",
+    "versionCode":  26,
+    "versionName":  "1.11.10",
+    "notes":  "Correcao: obras cujo titulo tem acento (ex.: Profissao sem Valor: Domador de Dragoes) voltam a carregar capa, sinopse e capitulos.",
     "apk":  {
-                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.11.9/lumina-1.11.9.apk",
-                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.11.9/lumina-migrar-1.11.9.apk"
+                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.11.10/lumina-1.11.10.apk",
+                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.11.10/lumina-migrar-1.11.10.apk"
             }
 }
