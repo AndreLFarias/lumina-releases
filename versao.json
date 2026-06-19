@@ -1,9 +1,9 @@
 {
-    "versionCode":  20,
-    "versionName":  "1.11.4",
-    "notes":  "Correcao: lista de capitulos da fonte volta a carregar (restaurada a configuracao original que funcionava). Leitura via WebView.",
+    "versionCode":  21,
+    "versionName":  "1.11.5",
+    "notes":  "Correcao: a fonte voltou ao funcionamento original - lista de capitulos carrega e a leitura e nativa (sem anuncios e sem a tela de verificacao).",
     "apk":  {
-                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.11.4/lumina-1.11.4.apk",
-                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.11.4/lumina-migrar-1.11.4.apk"
+                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.11.5/lumina-1.11.5.apk",
+                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.11.5/lumina-migrar-1.11.5.apk"
             }
 }
