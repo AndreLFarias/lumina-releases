@@ -1,9 +1,9 @@
 {
-    "versionCode":  22,
-    "versionName":  "1.11.6",
-    "notes":  "Correcao da fonte que parou (o site reforcou o Cloudflare): catalogo, busca e detalhes voltam a carregar; a lista de capitulos e buscada por um caminho que passa pela protecao; leitura sem anuncios.",
+    "versionCode":  23,
+    "versionName":  "1.11.7",
+    "notes":  "Nova fonte: Pluma Comics (manhuas em portugues), com leitura nativa (sem anuncios). Catalogo, busca, detalhes e capitulos.",
     "apk":  {
-                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.11.6/lumina-1.11.6.apk",
-                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.11.6/lumina-migrar-1.11.6.apk"
+                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.11.7/lumina-1.11.7.apk",
+                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.11.7/lumina-migrar-1.11.7.apk"
             }
 }
