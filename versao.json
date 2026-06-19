@@ -1,9 +1,9 @@
 {
-    "versionCode":  24,
-    "versionName":  "1.11.8",
-    "notes":  "Correcoes na fonte: obras com acento no titulo (ex.: Cao de Caca dos Baskerville) voltam a carregar; e some o aviso de \u0027desative o adblock\u0027 na leitura (mantendo o bloqueio de pop-ups e redirecionamentos).",
+    "versionCode":  25,
+    "versionName":  "1.11.9",
+    "notes":  "Conteudo +18: ao travar no Perfil, o historico, os salvos e as atualizacoes deixam de mostrar obras +18 (voltam ao reativar). Leitor: barra de progresso passa a indicar a rolagem do capitulo (cheia ao chegar no fim).",
     "apk":  {
-                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.11.8/lumina-1.11.8.apk",
-                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.11.8/lumina-migrar-1.11.8.apk"
+                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.11.9/lumina-1.11.9.apk",
+                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.11.9/lumina-migrar-1.11.9.apk"
             }
 }
