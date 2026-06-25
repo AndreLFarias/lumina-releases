@@ -1,9 +1,9 @@
 {
-    "versionCode":  26,
-    "versionName":  "1.11.10",
-    "notes":  "Correcao: obras cujo titulo tem acento (ex.: Profissao sem Valor: Domador de Dragoes) voltam a carregar capa, sinopse e capitulos.",
+    "versionCode":  27,
+    "versionName":  "1.11.11",
+    "notes":  "App resiliente quando uma fonte fica fora do ar: nao trava mais a tela inicial nem a busca por causa de uma fonte caida, e o diagnostico mostra uma mensagem clara.",
     "apk":  {
-                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.11.10/lumina-1.11.10.apk",
-                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.11.10/lumina-migrar-1.11.10.apk"
+                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.11.11/lumina-1.11.11.apk",
+                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.11.11/lumina-migrar-1.11.11.apk"
             }
 }
