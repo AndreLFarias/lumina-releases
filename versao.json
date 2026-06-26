@@ -1,9 +1,9 @@
 {
-    "versionCode":  35,
-    "versionName":  "1.16.0",
-    "notes":  "Imperio da Britannia adicionado como link com bloqueio de anuncios: Perfil \u003e Sites \u003e Imperio da Britannia abre o site dentro do app, sem pop-ups nem redirecionamentos de anuncio.",
+    "versionCode":  36,
+    "versionName":  "1.17.0",
+    "notes":  "Nova fonte de obras (PT-BR) com leitura nativa: capitulos abrem direto no app, sem WebView e sem anuncios. Conteudo +18 dessa fonte fica de fora do catalogo normal.",
     "apk":  {
-                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.16.0/lumina-1.16.0.apk",
-                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.16.0/lumina-migrar-1.16.0.apk"
+                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.17.0/lumina-1.17.0.apk",
+                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.17.0/lumina-migrar-1.17.0.apk"
             }
 }
