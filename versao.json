@@ -1,9 +1,9 @@
 {
-    "versionCode":  29,
-    "versionName":  "1.12.1",
-    "notes":  "Capas que ficavam quebradas em uma das fontes agora carregam (via navegador embutido, com cache). A 1a vez pode demorar um pouco; depois sai do cache. Se a fonte bloquear, cai num placeholder em vez de quebrar.",
+    "versionCode":  30,
+    "versionName":  "1.12.2",
+    "notes":  "Corrige o capitulo fantasma (404) ao abrir o ultimo capitulo de obras com prologo/cap. 0 em uma das fontes.",
     "apk":  {
-                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.12.1/lumina-1.12.1.apk",
-                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.12.1/lumina-migrar-1.12.1.apk"
+                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.12.2/lumina-1.12.2.apk",
+                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.12.2/lumina-migrar-1.12.2.apk"
             }
 }
