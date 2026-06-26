@@ -1,9 +1,9 @@
 {
-    "versionCode":  33,
-    "versionName":  "1.15.0",
-    "notes":  "Carregamento mais rapido: a tela inicial e a busca agora mostram as obras assim que a primeira fonte responde (~1-3s) e as fontes mais lentas vao preenchendo no fundo, sem travar esperando a mais lenta. Teto por fonte reduzido de 25s para 15s.",
+    "versionCode":  34,
+    "versionName":  "1.15.1",
+    "notes":  "Capas da fonte de manhuas: nova tentativa enviando os cabecalhos completos de navegador ao CDN (a abordagem anterior via WebView estava apontando para o dominio bloqueado). Se ainda nao aparecer, cai num placeholder limpo.",
     "apk":  {
-                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.15.0/lumina-1.15.0.apk",
-                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.15.0/lumina-migrar-1.15.0.apk"
+                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.15.1/lumina-1.15.1.apk",
+                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.15.1/lumina-migrar-1.15.1.apk"
             }
 }
