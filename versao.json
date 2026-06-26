@@ -1,9 +1,9 @@
 {
-    "versionCode":  28,
-    "versionName":  "1.12.0",
-    "notes":  "Agora da para apagar itens do historico um a um: deslize no Historico, ou segure um card em Continuar Lendo para remover aquela obra (resolve a mesma obra aparecendo por duas fontes).",
+    "versionCode":  29,
+    "versionName":  "1.12.1",
+    "notes":  "Capas que ficavam quebradas em uma das fontes agora carregam (via navegador embutido, com cache). A 1a vez pode demorar um pouco; depois sai do cache. Se a fonte bloquear, cai num placeholder em vez de quebrar.",
     "apk":  {
-                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.12.0/lumina-1.12.0.apk",
-                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.12.0/lumina-migrar-1.12.0.apk"
+                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.12.1/lumina-1.12.1.apk",
+                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.12.1/lumina-migrar-1.12.1.apk"
             }
 }
