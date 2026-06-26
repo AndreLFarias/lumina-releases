@@ -1,9 +1,9 @@
 {
-    "versionCode":  34,
-    "versionName":  "1.15.1",
-    "notes":  "Capas da fonte de manhuas: nova tentativa enviando os cabecalhos completos de navegador ao CDN (a abordagem anterior via WebView estava apontando para o dominio bloqueado). Se ainda nao aparecer, cai num placeholder limpo.",
+    "versionCode":  35,
+    "versionName":  "1.16.0",
+    "notes":  "Imperio da Britannia adicionado como link com bloqueio de anuncios: Perfil \u003e Sites \u003e Imperio da Britannia abre o site dentro do app, sem pop-ups nem redirecionamentos de anuncio.",
     "apk":  {
-                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.15.1/lumina-1.15.1.apk",
-                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.15.1/lumina-migrar-1.15.1.apk"
+                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.16.0/lumina-1.16.0.apk",
+                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.16.0/lumina-migrar-1.16.0.apk"
             }
 }
