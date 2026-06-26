@@ -1,9 +1,9 @@
 {
-    "versionCode":  30,
-    "versionName":  "1.12.2",
-    "notes":  "Corrige o capitulo fantasma (404) ao abrir o ultimo capitulo de obras com prologo/cap. 0 em uma das fontes.",
+    "versionCode":  31,
+    "versionName":  "1.13.0",
+    "notes":  "Conteudo +18 agora fica numa area separada (aberta pelo Perfil): nao aparece mais no Inicio, no catalogo nem na busca. Nos favoritos da pra mostrar/ocultar +18 e segurar um card para remover (mostrando a fonte, util quando a mesma obra esta salva por duas fontes).",
     "apk":  {
-                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.12.2/lumina-1.12.2.apk",
-                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.12.2/lumina-migrar-1.12.2.apk"
+                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.13.0/lumina-1.13.0.apk",
+                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.13.0/lumina-migrar-1.13.0.apk"
             }
 }
