@@ -1,9 +1,9 @@
 {
-    "versionCode":  32,
-    "versionName":  "1.14.0",
-    "notes":  "Primeira fonte +18 nova adicionada (HQ hentai PT-BR), disponivel na area +18 do Perfil. Galerias de imagem normais sao lidas direto; obras interativas embutidas abrem no leitor via WebView.",
+    "versionCode":  33,
+    "versionName":  "1.15.0",
+    "notes":  "Carregamento mais rapido: a tela inicial e a busca agora mostram as obras assim que a primeira fonte responde (~1-3s) e as fontes mais lentas vao preenchendo no fundo, sem travar esperando a mais lenta. Teto por fonte reduzido de 25s para 15s.",
     "apk":  {
-                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.14.0/lumina-1.14.0.apk",
-                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.14.0/lumina-migrar-1.14.0.apk"
+                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.15.0/lumina-1.15.0.apk",
+                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.15.0/lumina-migrar-1.15.0.apk"
             }
 }
