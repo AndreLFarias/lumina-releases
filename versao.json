@@ -1,9 +1,9 @@
 {
-    "versionCode":  40,
-    "versionName":  "1.20.0",
-    "notes":  "Cinco fontes novas (incluindo novels e conteudo +18 na area dedicada) e agrupamento de obras de mesmo titulo nos favoritos. Correcoes de leitura e privacidade dos nomes das fontes.",
+    "versionCode":  41,
+    "versionName":  "1.21.0",
+    "notes":  "Leitor de PDF nativo (para fontes cujo capitulo e um PDF unico) e mais 4 fontes novas (uma geral e tres na area +18). Suporte a sites com permalink personalizado.",
     "apk":  {
-                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.20.0/lumina-1.20.0.apk",
-                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.20.0/lumina-migrar-1.20.0.apk"
+                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.21.0/lumina-1.21.0.apk",
+                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.21.0/lumina-migrar-1.21.0.apk"
             }
 }
