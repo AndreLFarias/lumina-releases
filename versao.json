@@ -1,9 +1,9 @@
 {
-    "versionCode":  38,
-    "versionName":  "1.19.0",
-    "notes":  "Favoritos com estrela (favorito de verdade) separados das prateleiras; ordenacao e filtros na biblioteca; aba Baixados agora lista as obras offline; Atualizacoes priorizam favoritos e a leitura mais recente.",
+    "versionCode":  39,
+    "versionName":  "1.19.1",
+    "notes":  "Privacidade: as mensagens de erro nao revelam mais o nome do site da fonte ao usuario (Explore e Atualizacoes mostram so um aviso generico e amigavel).",
     "apk":  {
-                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.19.0/lumina-1.19.0.apk",
-                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.19.0/lumina-migrar-1.19.0.apk"
+                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.19.1/lumina-1.19.1.apk",
+                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.19.1/lumina-migrar-1.19.1.apk"
             }
 }
