@@ -1,9 +1,9 @@
 {
-    "versionCode":  37,
-    "versionName":  "1.18.0",
-    "notes":  "A fonte de manhuas agora abre os capitulos de forma nativa (rolagem de imagens), sem WebView e sem anuncios. Se algum capitulo nao carregar nativo (ex.: VIP), ele cai automaticamente na leitura via navegador como antes.",
+    "versionCode":  38,
+    "versionName":  "1.19.0",
+    "notes":  "Favoritos com estrela (favorito de verdade) separados das prateleiras; ordenacao e filtros na biblioteca; aba Baixados agora lista as obras offline; Atualizacoes priorizam favoritos e a leitura mais recente.",
     "apk":  {
-                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.18.0/lumina-1.18.0.apk",
-                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.18.0/lumina-migrar-1.18.0.apk"
+                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.19.0/lumina-1.19.0.apk",
+                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.19.0/lumina-migrar-1.19.0.apk"
             }
 }
