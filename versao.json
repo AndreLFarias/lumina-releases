@@ -1,9 +1,9 @@
 {
-    "versionCode":  39,
-    "versionName":  "1.19.1",
-    "notes":  "Privacidade: as mensagens de erro nao revelam mais o nome do site da fonte ao usuario (Explore e Atualizacoes mostram so um aviso generico e amigavel).",
+    "versionCode":  40,
+    "versionName":  "1.20.0",
+    "notes":  "Cinco fontes novas (incluindo novels e conteudo +18 na area dedicada) e agrupamento de obras de mesmo titulo nos favoritos. Correcoes de leitura e privacidade dos nomes das fontes.",
     "apk":  {
-                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.19.1/lumina-1.19.1.apk",
-                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.19.1/lumina-migrar-1.19.1.apk"
+                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.20.0/lumina-1.20.0.apk",
+                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.20.0/lumina-migrar-1.20.0.apk"
             }
 }
