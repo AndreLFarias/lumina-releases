@@ -1,9 +1,9 @@
 {
-    "versionCode":  42,
-    "versionName":  "1.22.0",
-    "notes":  "Mais 3 fontes novas (uma geral e duas na area +18), incluindo suporte ao motor HeanCMS de API. Ajustes de leitura e ordenacao de capitulos.",
+    "versionCode":  43,
+    "versionName":  "1.23.0",
+    "notes":  "Adicionada a Webtoon (site oficial, EN). Com isso, o lote de novas fontes desta rodada esta completo.",
     "apk":  {
-                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.22.0/lumina-1.22.0.apk",
-                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.22.0/lumina-migrar-1.22.0.apk"
+                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.23.0/lumina-1.23.0.apk",
+                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.23.0/lumina-migrar-1.23.0.apk"
             }
 }
