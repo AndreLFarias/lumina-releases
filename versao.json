@@ -1,9 +1,9 @@
 {
-    "versionCode":  46,
-    "versionName":  "1.26.0",
-    "notes":  "Economia de dados moveis: cache de imagens bem maior e duradouro — paginas e capas ja vistas (ou baixadas no Wi-Fi) nao baixam de novo ao reler/rolar. Novo botao \u0027Limpar cache de imagens\u0027 no Perfil.",
+    "versionCode":  47,
+    "versionName":  "1.27.0",
+    "notes":  "Notificacao de novos capitulos das obras favoritas (ative no Perfil). Nos bastidores: base do app modernizada para uma toolchain estavel, o que destravou esse recurso.",
     "apk":  {
-                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.26.0/lumina-1.26.0.apk",
-                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.26.0/lumina-migrar-1.26.0.apk"
+                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.27.0/lumina-1.27.0.apk",
+                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.27.0/lumina-migrar-1.27.0.apk"
             }
 }
