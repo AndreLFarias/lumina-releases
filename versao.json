@@ -1,9 +1,9 @@
 {
-    "versionCode":  41,
-    "versionName":  "1.21.0",
-    "notes":  "Leitor de PDF nativo (para fontes cujo capitulo e um PDF unico) e mais 4 fontes novas (uma geral e tres na area +18). Suporte a sites com permalink personalizado.",
+    "versionCode":  42,
+    "versionName":  "1.22.0",
+    "notes":  "Mais 3 fontes novas (uma geral e duas na area +18), incluindo suporte ao motor HeanCMS de API. Ajustes de leitura e ordenacao de capitulos.",
     "apk":  {
-                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.21.0/lumina-1.21.0.apk",
-                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.21.0/lumina-migrar-1.21.0.apk"
+                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.22.0/lumina-1.22.0.apk",
+                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.22.0/lumina-migrar-1.22.0.apk"
             }
 }
