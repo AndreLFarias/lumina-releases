@@ -1,9 +1,9 @@
 {
-    "versionCode":  43,
-    "versionName":  "1.23.0",
-    "notes":  "Adicionada a Webtoon (site oficial, EN). Com isso, o lote de novas fontes desta rodada esta completo.",
+    "versionCode":  44,
+    "versionName":  "1.24.0",
+    "notes":  "Reabilitada uma fonte que estava fora e adicionada outra (+18), ambas com leitura via WebView (paginas que carregam so no navegador). Sobre as demais pendentes: uma fica de fora por bloqueio total de Cloudflare.",
     "apk":  {
-                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.23.0/lumina-1.23.0.apk",
-                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.23.0/lumina-migrar-1.23.0.apk"
+                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.24.0/lumina-1.24.0.apk",
+                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.24.0/lumina-migrar-1.24.0.apk"
             }
 }
