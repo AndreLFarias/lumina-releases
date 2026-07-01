@@ -1,9 +1,9 @@
 {
-    "versionCode":  45,
-    "versionName":  "1.25.0",
-    "notes":  "Novo: \u0027Ler em outra fonte\u0027 na tela da obra — encontra o mesmo titulo em outras fontes e permite trocar (util quando uma fonte cai), retomando no mesmo capitulo.",
+    "versionCode":  46,
+    "versionName":  "1.26.0",
+    "notes":  "Economia de dados moveis: cache de imagens bem maior e duradouro — paginas e capas ja vistas (ou baixadas no Wi-Fi) nao baixam de novo ao reler/rolar. Novo botao \u0027Limpar cache de imagens\u0027 no Perfil.",
     "apk":  {
-                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.25.0/lumina-1.25.0.apk",
-                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.25.0/lumina-migrar-1.25.0.apk"
+                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.26.0/lumina-1.26.0.apk",
+                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.26.0/lumina-migrar-1.26.0.apk"
             }
 }
