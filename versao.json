@@ -1,9 +1,9 @@
 {
-    "versionCode":  48,
-    "versionName":  "1.27.1",
-    "notes":  "Correcoes: leitor de novel nao fica mais em branco (mostra aviso quando o capitulo nao carrega); numeracao de capitulos da fonte de novels corrigida; e o app consulta as fontes em lotes para reduzir timeouts na rede movel.",
+    "versionCode":  49,
+    "versionName":  "1.28.0",
+    "notes":  "Conteudo +18 volta a aparecer no catalogo geral quando liberado (e some por completo quando bloqueado); nos Salvos, ordem manual arrastando os cards + painel unico de ordenar/filtrar; e as fontes passam a ser exibidas por um apelido em vez do nome do site.",
     "apk":  {
-                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.27.1/lumina-1.27.1.apk",
-                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.27.1/lumina-migrar-1.27.1.apk"
+                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.28.0/lumina-1.28.0.apk",
+                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.28.0/lumina-migrar-1.28.0.apk"
             }
 }
