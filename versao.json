@@ -1,9 +1,9 @@
 {
-    "versionCode":  47,
-    "versionName":  "1.27.0",
-    "notes":  "Notificacao de novos capitulos das obras favoritas (ative no Perfil). Nos bastidores: base do app modernizada para uma toolchain estavel, o que destravou esse recurso.",
+    "versionCode":  48,
+    "versionName":  "1.27.1",
+    "notes":  "Correcoes: leitor de novel nao fica mais em branco (mostra aviso quando o capitulo nao carrega); numeracao de capitulos da fonte de novels corrigida; e o app consulta as fontes em lotes para reduzir timeouts na rede movel.",
     "apk":  {
-                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.27.0/lumina-1.27.0.apk",
-                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.27.0/lumina-migrar-1.27.0.apk"
+                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.27.1/lumina-1.27.1.apk",
+                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.27.1/lumina-migrar-1.27.1.apk"
             }
 }
