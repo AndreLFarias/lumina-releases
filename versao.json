@@ -1,9 +1,9 @@
 {
-  "versionCode": 50,
-  "versionName": "1.29.0",
-  "notes": "Salvos reformulados: accordions (Favoritos, Lendo, Quero Ler, Completo, Baixados) que expandem e recolhem. Arraste as obras para reordenar dentro de cada accordion e arraste os cabecalhos para reordenar as proprias secoes. A ordem fica salva.",
-  "apk": {
-    "geral": "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.29.0/lumina-1.29.0.apk",
-    "adulto": "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.29.0/lumina-migrar-1.29.0.apk"
-  }
+    "versionCode":  51,
+    "versionName":  "1.29.1",
+    "notes":  "Salvos: as obras voltam a aparecer em grade com capas grandes (melhor visualizacao) dentro de cada accordion. Arraste o cabecalho para reordenar as secoes; segure a obra para as acoes (favoritar, mover, remover).",
+    "apk":  {
+                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.29.1/lumina-1.29.1.apk",
+                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.29.1/lumina-migrar-1.29.1.apk"
+            }
 }
