@@ -1,9 +1,9 @@
 {
-    "versionCode":  52,
-    "versionName":  "1.30.0",
-    "notes":  "Salvos: segure e arraste uma obra para reordenar; favoritas ficam so em Favoritos; novo botao para esconder/mostrar +18. Atualizacoes: tocar abre a obra (voce escolhe o capitulo). Novels: correcao da tela em branco. Diagnostico de fontes so no Perfil e mais tempo para fontes lentas.",
+    "versionCode":  53,
+    "versionName":  "1.30.1",
+    "notes":  "Correcao do reordenar de obras nos Salvos: arrastar entre secoes nao mexe mais na secao errada, e reordenar com filtro ou +18 escondido nao apaga a ordem das obras ocultas.",
     "apk":  {
-                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.30.0/lumina-1.30.0.apk",
-                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.30.0/lumina-migrar-1.30.0.apk"
+                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.30.1/lumina-1.30.1.apk",
+                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.30.1/lumina-migrar-1.30.1.apk"
             }
 }
