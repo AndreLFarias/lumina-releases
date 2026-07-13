@@ -1,9 +1,9 @@
 {
-    "versionCode":  54,
-    "versionName":  "1.30.2",
-    "notes":  "Corrige as light/web novels que abriam em branco no leitor (o texto agora carrega normalmente).",
+    "versionCode":  55,
+    "versionName":  "1.31.0",
+    "notes":  "Novidades: o card da obra agora mostra a Fonte (apelido), e no Perfil o idioma de leitura filtra o catalogo - com Portugues, obras so em ingles ficam ocultas ate voce escolher Ingles.",
     "apk":  {
-                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.30.2/lumina-1.30.2.apk",
-                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.30.2/lumina-migrar-1.30.2.apk"
+                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.31.0/lumina-1.31.0.apk",
+                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.31.0/lumina-migrar-1.31.0.apk"
             }
 }
