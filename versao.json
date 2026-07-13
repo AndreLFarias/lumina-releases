@@ -1,9 +1,9 @@
 {
-    "versionCode":  55,
-    "versionName":  "1.31.0",
-    "notes":  "Novidades: o card da obra agora mostra a Fonte (apelido), e no Perfil o idioma de leitura filtra o catalogo - com Portugues, obras so em ingles ficam ocultas ate voce escolher Ingles.",
+    "versionCode":  56,
+    "versionName":  "1.32.0",
+    "notes":  "Removida a fonte Escarlate (+18). Obras salvas dessa fonte sao limpas automaticamente ao abrir o app.",
     "apk":  {
-                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.31.0/lumina-1.31.0.apk",
-                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.31.0/lumina-migrar-1.31.0.apk"
+                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.32.0/lumina-1.32.0.apk",
+                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.32.0/lumina-migrar-1.32.0.apk"
             }
 }
