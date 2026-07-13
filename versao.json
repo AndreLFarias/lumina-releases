@@ -1,9 +1,9 @@
 {
-    "versionCode":  53,
-    "versionName":  "1.30.1",
-    "notes":  "Correcao do reordenar de obras nos Salvos: arrastar entre secoes nao mexe mais na secao errada, e reordenar com filtro ou +18 escondido nao apaga a ordem das obras ocultas.",
+    "versionCode":  54,
+    "versionName":  "1.30.2",
+    "notes":  "Corrige as light/web novels que abriam em branco no leitor (o texto agora carrega normalmente).",
     "apk":  {
-                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.30.1/lumina-1.30.1.apk",
-                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.30.1/lumina-migrar-1.30.1.apk"
+                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.30.2/lumina-1.30.2.apk",
+                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.30.2/lumina-migrar-1.30.2.apk"
             }
 }
