@@ -1,9 +1,9 @@
 {
-    "versionCode":  61,
-    "versionName":  "1.33.2",
-    "notes":  "Paginas que nao carregavam na Ambar: descobrimos que parte do acervo mudou para um formato de imagem (AVIF) que o app ainda nao abre. Esta versao NAO resolve a leitura desses capitulos -- ela passa a explicar o motivo na tela, em vez do icone de imagem quebrada que parecia falha de internet. Capitulos mais antigos continuam funcionando.\u003c/command\u003e",
+    "versionCode":  62,
+    "versionName":  "1.34.0",
+    "notes":  "Ambar: capitulos novos voltam a abrir -- o site passou a usar um formato de imagem (AVIF) que o app nao lia. Tambem foi modernizada a base de compilacao do Android. Atencao: o APK cresceu de ~59 MB para ~71 MB por causa do decodificador de imagem.\u003c/command\u003e",
     "apk":  {
-                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.33.2/lumina-1.33.2.apk",
-                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.33.2/lumina-migrar-1.33.2.apk"
+                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.34.0/lumina-1.34.0.apk",
+                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.34.0/lumina-migrar-1.34.0.apk"
             }
 }
