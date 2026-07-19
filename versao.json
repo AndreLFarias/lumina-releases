@@ -1,9 +1,9 @@
 {
-    "versionCode":  57,
-    "versionName":  "1.32.1",
-    "notes":  "Ambar e Coral voltaram a carregar (as duas fontes tinham mudado de endereco no site). Datas de capitulo da Turquesa: quando a fonte importa a obra inteira de uma vez, ela carimba tudo com a data do import; esses casos agora aparecem sem data em vez de com data errada.\u003c/command\u003e",
+    "versionCode":  58,
+    "versionName":  "1.32.2",
+    "notes":  "Correcao: obra com capitulos aparecia como \u0027Sem capitulos disponiveis\u0027 na Ambar. Falha de acesso agora mostra erro e permite tentar de novo, em vez de dizer que a obra nao tem capitulo.\u003c/command\u003e",
     "apk":  {
-                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.32.1/lumina-1.32.1.apk",
-                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.32.1/lumina-migrar-1.32.1.apk"
+                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.32.2/lumina-1.32.2.apk",
+                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.32.2/lumina-migrar-1.32.2.apk"
             }
 }
