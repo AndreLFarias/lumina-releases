@@ -1,9 +1,9 @@
 {
-    "versionCode":  56,
-    "versionName":  "1.32.0",
-    "notes":  "Removida a fonte Escarlate (+18). Obras salvas dessa fonte sao limpas automaticamente ao abrir o app.",
+    "versionCode":  57,
+    "versionName":  "1.32.1",
+    "notes":  "Ambar e Coral voltaram a carregar (as duas fontes tinham mudado de endereco no site). Datas de capitulo da Turquesa: quando a fonte importa a obra inteira de uma vez, ela carimba tudo com a data do import; esses casos agora aparecem sem data em vez de com data errada.\u003c/command\u003e",
     "apk":  {
-                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.32.0/lumina-1.32.0.apk",
-                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.32.0/lumina-migrar-1.32.0.apk"
+                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.32.1/lumina-1.32.1.apk",
+                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.32.1/lumina-migrar-1.32.1.apk"
             }
 }
