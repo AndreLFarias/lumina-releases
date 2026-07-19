@@ -1,9 +1,9 @@
 {
-    "versionCode":  59,
-    "versionName":  "1.33.0",
-    "notes":  "Ambar: capitulos e leitura voltaram a funcionar. A fonte agora le tudo direto, sem navegador embutido, o que deve deixar a abertura das obras bem mais rapida.\u003c/command\u003e",
+    "versionCode":  60,
+    "versionName":  "1.33.1",
+    "notes":  "Ambar: as imagens dos capitulos voltaram a carregar. Um cabecalho que o site exige era justamente o que o servidor de imagens recusava -- o mesmo motivo pelo qual as capas dessa fonte falhavam ha tempos.\u003c/command\u003e",
     "apk":  {
-                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.33.0/lumina-1.33.0.apk",
-                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.33.0/lumina-migrar-1.33.0.apk"
+                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.33.1/lumina-1.33.1.apk",
+                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.33.1/lumina-migrar-1.33.1.apk"
             }
 }
