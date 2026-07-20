@@ -1,9 +1,9 @@
 {
-    "versionCode":  62,
-    "versionName":  "1.34.0",
-    "notes":  "Ambar: capitulos novos voltam a abrir -- o site passou a usar um formato de imagem (AVIF) que o app nao lia. Tambem foi modernizada a base de compilacao do Android. Atencao: o APK cresceu de ~59 MB para ~71 MB por causa do decodificador de imagem.\u003c/command\u003e",
+    "versionCode":  63,
+    "versionName":  "1.34.1",
+    "notes":  "Desempenho: corrigidas as travas ao rolar listas e capas, e as rajadas de requisicoes que deixavam a abertura do app e das obras lentas. Nota: a fonte Carmim esta com o servidor dela fora do ar (problema do site, nao do app) -- o app ja avisa isso na tela.\u003c/command\u003e",
     "apk":  {
-                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.34.0/lumina-1.34.0.apk",
-                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.34.0/lumina-migrar-1.34.0.apk"
+                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.34.1/lumina-1.34.1.apk",
+                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.34.1/lumina-migrar-1.34.1.apk"
             }
 }
