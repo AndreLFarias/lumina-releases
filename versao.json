@@ -1,9 +1,9 @@
 {
-    "versionCode":  64,
-    "versionName":  "1.35.0",
-    "notes":  "O app agora para de insistir em fontes que estao com o servidor fora do ar, por alguns minutos, em vez de esperar o tempo limite em cada tela. Isso deixa o Inicio, a Busca e a abertura de obras mais rapidos quando alguma fonte esta caida -- como a Carmim esta agora.\u003c/command\u003e",
+    "versionCode":  65,
+    "versionName":  "1.35.1",
+    "notes":  "Quando a fonte de uma obra esta com o servidor fora do ar, a tela da obra passa a explicar isso -- que o problema e do site, que a obra continua salva e que da para ler em outra fonte -- em vez de so mostrar erro. O diagnostico completo, com quais fontes estao fora do ar agora, fica no Perfil.\u003c/command\u003e",
     "apk":  {
-                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.35.0/lumina-1.35.0.apk",
-                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.35.0/lumina-migrar-1.35.0.apk"
+                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.35.1/lumina-1.35.1.apk",
+                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.35.1/lumina-migrar-1.35.1.apk"
             }
 }
