@@ -1,9 +1,9 @@
 {
-    "versionCode":  65,
-    "versionName":  "1.35.1",
-    "notes":  "Quando a fonte de uma obra esta com o servidor fora do ar, a tela da obra passa a explicar isso -- que o problema e do site, que a obra continua salva e que da para ler em outra fonte -- em vez de so mostrar erro. O diagnostico completo, com quais fontes estao fora do ar agora, fica no Perfil.\u003c/command\u003e",
+    "versionCode":  66,
+    "versionName":  "1.35.2",
+    "notes":  "Leitor: a leitura nao pula mais para tras quando uma pagina termina de carregar. O app agora reserva o espaco exato de cada pagina antes de ela chegar, em vez de uma altura fixa -- algumas paginas tem 15 mil pixels de altura, e era esse o tamanho do empurrao.\u003c/command\u003e",
     "apk":  {
-                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.35.1/lumina-1.35.1.apk",
-                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.35.1/lumina-migrar-1.35.1.apk"
+                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.35.2/lumina-1.35.2.apk",
+                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.35.2/lumina-migrar-1.35.2.apk"
             }
 }
