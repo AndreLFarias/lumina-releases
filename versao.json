@@ -1,9 +1,9 @@
 {
-    "versionCode":  63,
-    "versionName":  "1.34.1",
-    "notes":  "Desempenho: corrigidas as travas ao rolar listas e capas, e as rajadas de requisicoes que deixavam a abertura do app e das obras lentas. Nota: a fonte Carmim esta com o servidor dela fora do ar (problema do site, nao do app) -- o app ja avisa isso na tela.\u003c/command\u003e",
+    "versionCode":  64,
+    "versionName":  "1.35.0",
+    "notes":  "O app agora para de insistir em fontes que estao com o servidor fora do ar, por alguns minutos, em vez de esperar o tempo limite em cada tela. Isso deixa o Inicio, a Busca e a abertura de obras mais rapidos quando alguma fonte esta caida -- como a Carmim esta agora.\u003c/command\u003e",
     "apk":  {
-                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.34.1/lumina-1.34.1.apk",
-                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.34.1/lumina-migrar-1.34.1.apk"
+                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.35.0/lumina-1.35.0.apk",
+                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.35.0/lumina-migrar-1.35.0.apk"
             }
 }
