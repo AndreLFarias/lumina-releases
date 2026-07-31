@@ -1,9 +1,9 @@
 {
-    "versionCode":  66,
-    "versionName":  "1.35.2",
-    "notes":  "Leitor: a leitura nao pula mais para tras quando uma pagina termina de carregar. O app agora reserva o espaco exato de cada pagina antes de ela chegar, em vez de uma altura fixa -- algumas paginas tem 15 mil pixels de altura, e era esse o tamanho do empurrao.\u003c/command\u003e",
+    "versionCode":  67,
+    "versionName":  "1.35.3",
+    "notes":  "Corrige obras fantasma na busca (sem titulo / zero capitulos), aviso claro quando o capitulo vem sem paginas e o carregamento infinito da aba Atualizacoes.",
     "apk":  {
-                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.35.2/lumina-1.35.2.apk",
-                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.35.2/lumina-migrar-1.35.2.apk"
+                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.35.3/lumina-1.35.3.apk",
+                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.35.3/lumina-migrar-1.35.3.apk"
             }
 }
