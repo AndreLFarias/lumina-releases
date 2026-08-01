@@ -1,9 +1,9 @@
 {
-    "versionCode":  67,
-    "versionName":  "1.35.3",
-    "notes":  "Corrige obras fantasma na busca (sem titulo / zero capitulos), aviso claro quando o capitulo vem sem paginas e o carregamento infinito da aba Atualizacoes.",
+    "versionCode":  68,
+    "versionName":  "1.36.0",
+    "notes":  "Obras em video numa fonte +18: episodios com player embutido, vocabulario de Assistir/Episodios. Corrige tambem os capitulos de leitura dessa fonte, que abriam sem pagina nenhuma.",
     "apk":  {
-                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.35.3/lumina-1.35.3.apk",
-                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.35.3/lumina-migrar-1.35.3.apk"
+                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.36.0/lumina-1.36.0.apk",
+                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.36.0/lumina-migrar-1.36.0.apk"
             }
 }
