@@ -1,9 +1,9 @@
 {
-    "versionCode":  68,
-    "versionName":  "1.36.0",
-    "notes":  "Obras em video numa fonte +18: episodios com player embutido, vocabulario de Assistir/Episodios. Corrige tambem os capitulos de leitura dessa fonte, que abriam sem pagina nenhuma.",
+    "versionCode":  69,
+    "versionName":  "1.37.0",
+    "notes":  "Leitura em tablet: as capas se ajustam a tela (nao ficam gigantes) e o leitor de manga/novel ganha largura maxima, para nao esticar a pagina nem alongar demais a linha de texto. O mesmo APK instala em tablet Amazon (Fire OS 6+).",
     "apk":  {
-                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.36.0/lumina-1.36.0.apk",
-                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.36.0/lumina-migrar-1.36.0.apk"
+                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.37.0/lumina-1.37.0.apk",
+                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.37.0/lumina-migrar-1.37.0.apk"
             }
 }
