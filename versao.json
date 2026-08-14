@@ -1,9 +1,9 @@
 {
-    "versionCode":  75,
-    "versionName":  "1.42.0",
-    "notes":  "Correcoes: as capas da fonte Coral voltaram (a fonte mudou o endereco das imagens); downloads que falhavam calados agora avisam o motivo na tela; a aba de Animes explica quando nao ha fonte liberada em vez de ficar vazia. Novidades: botao de exportar em PDF/EPUB na propria tela da obra, Explorar ganhou as mesmas abas por tipo e um icone de busca, e o Inicio tem um botao para mostrar/esconder o conteudo +18.",
+    "versionCode":  76,
+    "versionName":  "1.43.0",
+    "notes":  "Adiciona quatro fontes de animes: Esmeralda, Rubi, Prata e Topazio",
     "apk":  {
-                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.42.0/lumina-1.42.0.apk",
-                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.42.0/lumina-migrar-1.42.0.apk"
+                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.43.0/lumina-1.43.0.apk",
+                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.43.0/lumina-migrar-1.43.0.apk"
             }
 }
