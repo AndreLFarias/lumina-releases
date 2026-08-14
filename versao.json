@@ -1,9 +1,9 @@
 {
-    "versionCode":  70,
-    "versionName":  "1.37.1",
-    "notes":  "Correcao: as barras do Android nao cobrem mais os controles do player de video (maximizar e os demais). Ao maximizar, o video ocupa a tela inteira.",
+    "versionCode":  71,
+    "versionName":  "1.38.0",
+    "notes":  "Novidade: em Downloads, cada obra tem \u0027Exportar em PDF\u0027 - junta os capitulos baixados e abre o compartilhar, para ler fora do app (Kindle, tablet, PC). Tiras longas de webtoon saem fatiadas em paginas legiveis.",
     "apk":  {
-                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.37.1/lumina-1.37.1.apk",
-                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.37.1/lumina-migrar-1.37.1.apk"
+                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.38.0/lumina-1.38.0.apk",
+                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.38.0/lumina-migrar-1.38.0.apk"
             }
 }
