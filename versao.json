@@ -1,9 +1,9 @@
 {
-    "versionCode":  71,
-    "versionName":  "1.38.0",
-    "notes":  "Novidade: em Downloads, cada obra tem \u0027Exportar em PDF\u0027 - junta os capitulos baixados e abre o compartilhar, para ler fora do app (Kindle, tablet, PC). Tiras longas de webtoon saem fatiadas em paginas legiveis.",
+    "versionCode":  72,
+    "versionName":  "1.39.0",
+    "notes":  "Novidade: novel agora pode ser baixada para ler offline, e sai em EPUB pelo botao de exportar em Downloads - formato nativo do e-reader, o texto reflui na tela em vez de ficar espremido como no PDF.",
     "apk":  {
-                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.38.0/lumina-1.38.0.apk",
-                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.38.0/lumina-migrar-1.38.0.apk"
+                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.39.0/lumina-1.39.0.apk",
+                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.39.0/lumina-migrar-1.39.0.apk"
             }
 }
