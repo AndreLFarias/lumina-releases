@@ -1,9 +1,9 @@
 {
-    "versionCode":  76,
-    "versionName":  "1.43.0",
-    "notes":  "Adiciona quatro fontes de animes: Esmeralda, Rubi, Prata e Topazio",
+    "versionCode":  77,
+    "versionName":  "1.43.1",
+    "notes":  "Correcao: capitulos ja baixados agora abrem mesmo sem internet (a tela da obra parava de mostrar tudo se nao conseguia falar com a fonte); download de capitulo que so funciona online (WebView/PDF) agora avisa em vez de falhar calado; paginas baixadas em AVIF passam a abrir offline.",
     "apk":  {
-                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.43.0/lumina-1.43.0.apk",
-                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.43.0/lumina-migrar-1.43.0.apk"
+                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.43.1/lumina-1.43.1.apk",
+                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.43.1/lumina-migrar-1.43.1.apk"
             }
 }
