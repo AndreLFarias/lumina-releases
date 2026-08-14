@@ -1,9 +1,9 @@
 {
-    "versionCode":  74,
-    "versionName":  "1.41.0",
-    "notes":  "IMPORTANTE - esta versao precisa ser instalada do zero. A chave de assinatura do app mudou, entao atualizar por cima falha com \u0027App nao instalado\u0027. Passo a passo: 1) Perfil \u003e Backup \u003e Exportar biblioteca e salve o arquivo (Drive, Arquivos...); 2) desinstale o Lumina; 3) instale o APK desta versao; 4) no app novo, Perfil \u003e Backup \u003e Importar biblioteca. O backup guarda favoritos, progresso e historico. Os capitulos baixados se perdem - se quiser guardar algum, exporte antes em Downloads. Isso acontece so desta vez: dagora em diante as atualizacoes voltam ao normal. Novidades: exportar obras em PDF/EPUB para ler no Kindle, home reorganizada em tres abas (bem mais rapida) e botao de backup no proprio aviso de atualizacao.",
+    "versionCode":  75,
+    "versionName":  "1.42.0",
+    "notes":  "Correcoes: as capas da fonte Coral voltaram (a fonte mudou o endereco das imagens); downloads que falhavam calados agora avisam o motivo na tela; a aba de Animes explica quando nao ha fonte liberada em vez de ficar vazia. Novidades: botao de exportar em PDF/EPUB na propria tela da obra, Explorar ganhou as mesmas abas por tipo e um icone de busca, e o Inicio tem um botao para mostrar/esconder o conteudo +18.",
     "apk":  {
-                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.41.0/lumina-1.41.0.apk",
-                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.41.0/lumina-migrar-1.41.0.apk"
+                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.42.0/lumina-1.42.0.apk",
+                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.42.0/lumina-migrar-1.42.0.apk"
             }
 }
