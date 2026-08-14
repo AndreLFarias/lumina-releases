@@ -1,9 +1,9 @@
 {
-    "versionCode":  72,
-    "versionName":  "1.39.0",
-    "notes":  "Novidade: novel agora pode ser baixada para ler offline, e sai em EPUB pelo botao de exportar em Downloads - formato nativo do e-reader, o texto reflui na tela em vez de ficar espremido como no PDF.",
+    "versionCode":  73,
+    "versionName":  "1.40.0",
+    "notes":  "Home reorganizada em tres abas - Mangas/Manhwa/Manhua, Novels e Animes. Cada aba consulta so as fontes daquele tipo, entao abrir o app ficou bem mais rapido, e os filtros passaram a ser os que fazem sentido em cada aba.",
     "apk":  {
-                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.39.0/lumina-1.39.0.apk",
-                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.39.0/lumina-migrar-1.39.0.apk"
+                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.40.0/lumina-1.40.0.apk",
+                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.40.0/lumina-migrar-1.40.0.apk"
             }
 }
