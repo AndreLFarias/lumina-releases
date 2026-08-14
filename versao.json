@@ -1,9 +1,9 @@
 {
-    "versionCode":  77,
-    "versionName":  "1.43.1",
-    "notes":  "Correcao: capitulos ja baixados agora abrem mesmo sem internet (a tela da obra parava de mostrar tudo se nao conseguia falar com a fonte); download de capitulo que so funciona online (WebView/PDF) agora avisa em vez de falhar calado; paginas baixadas em AVIF passam a abrir offline.",
+    "versionCode":  78,
+    "versionName":  "1.44.0",
+    "notes":  "Download volta a funcionar nas fontes que so abriam no navegador (o app le as paginas por dentro e salva) e nos capitulos que vem em PDF unico. Paginas que tropecam agora repetem em vez de derrubar o capitulo inteiro.",
     "apk":  {
-                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.43.1/lumina-1.43.1.apk",
-                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.43.1/lumina-migrar-1.43.1.apk"
+                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.44.0/lumina-1.44.0.apk",
+                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.44.0/lumina-migrar-1.44.0.apk"
             }
 }
