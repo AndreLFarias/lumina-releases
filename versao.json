@@ -1,9 +1,9 @@
 {
-    "versionCode":  69,
-    "versionName":  "1.37.0",
-    "notes":  "Leitura em tablet: as capas se ajustam a tela (nao ficam gigantes) e o leitor de manga/novel ganha largura maxima, para nao esticar a pagina nem alongar demais a linha de texto. O mesmo APK instala em tablet Amazon (Fire OS 6+).",
+    "versionCode":  70,
+    "versionName":  "1.37.1",
+    "notes":  "Correcao: as barras do Android nao cobrem mais os controles do player de video (maximizar e os demais). Ao maximizar, o video ocupa a tela inteira.",
     "apk":  {
-                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.37.0/lumina-1.37.0.apk",
-                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.37.0/lumina-migrar-1.37.0.apk"
+                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.37.1/lumina-1.37.1.apk",
+                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.37.1/lumina-migrar-1.37.1.apk"
             }
 }
