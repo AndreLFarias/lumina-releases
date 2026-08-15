@@ -1,9 +1,9 @@
 {
-    "versionCode":  78,
-    "versionName":  "1.44.0",
-    "notes":  "Download volta a funcionar nas fontes que so abriam no navegador (o app le as paginas por dentro e salva) e nos capitulos que vem em PDF unico. Paginas que tropecam agora repetem em vez de derrubar o capitulo inteiro.",
+    "versionCode":  79,
+    "versionName":  "1.45.0",
+    "notes":  "A busca agora procura dentro do tipo de obra da aba: estando em Mangas so vem manga, em Novels so vem novel. Chips no topo trocam o tipo sem sair da busca.",
     "apk":  {
-                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.44.0/lumina-1.44.0.apk",
-                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.44.0/lumina-migrar-1.44.0.apk"
+                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.45.0/lumina-1.45.0.apk",
+                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.45.0/lumina-migrar-1.45.0.apk"
             }
 }
