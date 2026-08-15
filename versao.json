@@ -1,9 +1,9 @@
 {
-    "versionCode":  79,
-    "versionName":  "1.45.0",
-    "notes":  "A busca agora procura dentro do tipo de obra da aba: estando em Mangas so vem manga, em Novels so vem novel. Chips no topo trocam o tipo sem sair da busca.",
+    "versionCode":  80,
+    "versionName":  "1.45.1",
+    "notes":  "Envio para o Kindle: capitulo que vem em PDF agora sai como \u0027Obra - cap 007.pdf\u0027 em vez de varios anexos chamados chapter.pdf. Os numeros levam zeros a esquerda para a lista ficar em ordem.",
     "apk":  {
-                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.45.0/lumina-1.45.0.apk",
-                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.45.0/lumina-migrar-1.45.0.apk"
+                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.45.1/lumina-1.45.1.apk",
+                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.45.1/lumina-migrar-1.45.1.apk"
             }
 }
