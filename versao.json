@@ -1,9 +1,9 @@
 {
-    "versionCode":  81,
-    "versionName":  "1.46.0",
-    "notes":  "Salvos: ordenacao A-Z e filtro por obras ja comecadas. Notificacoes de capitulo novo so das obras favoritadas (estrela). Historico deixa de apagar as outras obras quando voce maratona uma so, e leituras seguidas da mesma obra viram uma linha so.",
+    "versionCode":  82,
+    "versionName":  "1.46.1",
+    "notes":  "Correcoes de fontes: obras que existiam no site mas nao apareciam na busca agora aparecem; o botao \u0027Ler em outra fonte\u0027 volta a encontrar a obra mesmo quando as fontes escrevem o nome de um jeito diferente; catalogo +18 de uma das fontes voltou a listar obras; e obra sem capitulo em fonte de idioma unico deixa de dizer que o problema e o idioma.",
     "apk":  {
-                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.46.0/lumina-1.46.0.apk",
-                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.46.0/lumina-migrar-1.46.0.apk"
+                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.46.1/lumina-1.46.1.apk",
+                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.46.1/lumina-migrar-1.46.1.apk"
             }
 }
