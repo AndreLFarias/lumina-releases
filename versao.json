@@ -1,9 +1,9 @@
 {
-    "versionCode":  83,
-    "versionName":  "1.46.2",
-    "notes":  "Fonte Ambar: leitura voltou a ser nativa - os capitulos estavam abrindo na WebView porque o site mudou de onde as paginas vem.",
+    "versionCode":  84,
+    "versionName":  "1.47.0",
+    "notes":  "Ao exportar capitulos baixados de manga, agora da para escolher: um PDF unico com tudo ou um PDF separado por capitulo.",
     "apk":  {
-                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.46.2/lumina-1.46.2.apk",
-                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.46.2/lumina-migrar-1.46.2.apk"
+                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.47.0/lumina-1.47.0.apk",
+                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.47.0/lumina-migrar-1.47.0.apk"
             }
 }
