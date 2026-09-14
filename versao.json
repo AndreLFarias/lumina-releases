@@ -1,9 +1,9 @@
 {
-    "versionCode":  85,
-    "versionName":  "1.47.1",
-    "notes":  "Corrige a fonte Ambar (bloqueio do Cloudflare); Carmim e Verde seguem fora do ar por queda dos sites",
+    "versionCode":  86,
+    "versionName":  "1.47.2",
+    "notes":  "Corrige as paginas quebradas do Ambar (desafio do CDN de imagens)",
     "apk":  {
-                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.47.1/lumina-1.47.1.apk",
-                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.47.1/lumina-migrar-1.47.1.apk"
+                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.47.2/lumina-1.47.2.apk",
+                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.47.2/lumina-migrar-1.47.2.apk"
             }
 }
