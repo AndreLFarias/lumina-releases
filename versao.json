@@ -1,9 +1,9 @@
 {
-    "versionCode":  86,
-    "versionName":  "1.47.2",
-    "notes":  "Corrige as paginas quebradas do Ambar (desafio do CDN de imagens)",
+    "versionCode":  87,
+    "versionName":  "1.47.3",
+    "notes":  "Ambar: rede de seguranca quando o desafio do CDN de imagens nao resolve (cai pra WebView em vez de pagina quebrada)",
     "apk":  {
-                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.47.2/lumina-1.47.2.apk",
-                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.47.2/lumina-migrar-1.47.2.apk"
+                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.47.3/lumina-1.47.3.apk",
+                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.47.3/lumina-migrar-1.47.3.apk"
             }
 }
