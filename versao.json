@@ -1,9 +1,9 @@
 {
-    "versionCode":  88,
-    "versionName":  "1.47.4",
-    "notes":  "Ambar: corrige tela em branco na retaguarda de leitura (fundo transparente escondia a pagina)",
+    "versionCode":  89,
+    "versionName":  "1.47.5",
+    "notes":  "Ambar: corrige cookie provisorio do Cloudflare sendo aceito como valido antes da hora, com verificacao real antes de confiar nele",
     "apk":  {
-                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.47.4/lumina-1.47.4.apk",
-                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.47.4/lumina-migrar-1.47.4.apk"
+                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.47.5/lumina-1.47.5.apk",
+                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.47.5/lumina-migrar-1.47.5.apk"
             }
 }
