@@ -1,9 +1,9 @@
 {
-    "versionCode":  89,
-    "versionName":  "1.47.5",
-    "notes":  "Ambar: corrige cookie provisorio do Cloudflare sendo aceito como valido antes da hora, com verificacao real antes de confiar nele",
+    "versionCode":  90,
+    "versionName":  "1.47.6",
+    "notes":  "Ambar: capa e paginas nativas (o download de imagem tambem passa a usar o motor de rede do Chrome, nao so o catalogo)",
     "apk":  {
-                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.47.5/lumina-1.47.5.apk",
-                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.47.5/lumina-migrar-1.47.5.apk"
+                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.47.6/lumina-1.47.6.apk",
+                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.47.6/lumina-migrar-1.47.6.apk"
             }
 }
