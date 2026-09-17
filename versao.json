@@ -1,9 +1,9 @@
 {
-    "versionCode":  90,
-    "versionName":  "1.47.6",
-    "notes":  "Ambar: capa e paginas nativas (o download de imagem tambem passa a usar o motor de rede do Chrome, nao so o catalogo)",
+    "versionCode":  91,
+    "versionName":  "1.47.7",
+    "notes":  "Ambar: WebView do desafio do CDN estava resolvendo como celular, que o site sempre rejeitou (causa raiz encontrada)",
     "apk":  {
-                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.47.6/lumina-1.47.6.apk",
-                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.47.6/lumina-migrar-1.47.6.apk"
+                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.47.7/lumina-1.47.7.apk",
+                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.47.7/lumina-migrar-1.47.7.apk"
             }
 }
