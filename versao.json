@@ -1,9 +1,9 @@
 {
-    "versionCode":  91,
-    "versionName":  "1.47.7",
-    "notes":  "Ambar: WebView do desafio do CDN estava resolvendo como celular, que o site sempre rejeitou (causa raiz encontrada)",
+    "versionCode":  92,
+    "versionName":  "1.47.8",
+    "notes":  "Perola: corrige capitulos sumidos (bug no fallback AJAX). Tambem passa a mostrar o erro real quando a lista de capitulos falha ao montar, para diagnosticar a Safira",
     "apk":  {
-                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.47.7/lumina-1.47.7.apk",
-                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.47.7/lumina-migrar-1.47.7.apk"
+                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.47.8/lumina-1.47.8.apk",
+                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.47.8/lumina-migrar-1.47.8.apk"
             }
 }
