@@ -1,9 +1,9 @@
 {
-    "versionCode":  94,
-    "versionName":  "1.49.0",
-    "notes":  "Borda colorida por fonte nos cards, apagar downloads segurando o card, favoritos separados por status (Lendo/Quero Ler/Completo) e categoria para obras com fonte fora do ar nos Salvos.",
+    "versionCode":  95,
+    "versionName":  "1.49.1",
+    "notes":  "Corrige obra da Magenta sem capitulos (2 chamadas na mesma pagina, uma podia levar bloqueio) e Ler em outra fonte que nao achava obra quando uma fonte usa titulo completo e outra so o apelido.",
     "apk":  {
-                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.49.0/lumina-1.49.0.apk",
-                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.49.0/lumina-migrar-1.49.0.apk"
+                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.49.1/lumina-1.49.1.apk",
+                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.49.1/lumina-migrar-1.49.1.apk"
             }
 }
