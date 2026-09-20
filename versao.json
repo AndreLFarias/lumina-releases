@@ -1,9 +1,9 @@
 {
-    "versionCode":  95,
-    "versionName":  "1.49.1",
-    "notes":  "Corrige obra da Magenta sem capitulos (2 chamadas na mesma pagina, uma podia levar bloqueio) e Ler em outra fonte que nao achava obra quando uma fonte usa titulo completo e outra so o apelido.",
+    "versionCode":  96,
+    "versionName":  "1.50.0",
+    "notes":  "Nova fonte Ametista (+18) adicionada. Pode precisar de ajustes ao usar de verdade, ja que a parte de sessao via WebView so pode ser validada no aparelho.",
     "apk":  {
-                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.49.1/lumina-1.49.1.apk",
-                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.49.1/lumina-migrar-1.49.1.apk"
+                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.50.0/lumina-1.50.0.apk",
+                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.50.0/lumina-migrar-1.50.0.apk"
             }
 }
