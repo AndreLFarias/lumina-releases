@@ -1,9 +1,9 @@
 {
-    "versionCode":  93,
-    "versionName":  "1.48.0",
-    "notes":  "Corrige Coral (capa/paginas), reescreve Bronze (site mudou de plataforma), corrige travamento ao abrir obra na Turquesa, trata Magenta como fonte fora do ar (captcha sem contorno) e adiciona filtro por fonte nos Salvos.",
+    "versionCode":  94,
+    "versionName":  "1.49.0",
+    "notes":  "Borda colorida por fonte nos cards, apagar downloads segurando o card, favoritos separados por status (Lendo/Quero Ler/Completo) e categoria para obras com fonte fora do ar nos Salvos.",
     "apk":  {
-                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.48.0/lumina-1.48.0.apk",
-                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.48.0/lumina-migrar-1.48.0.apk"
+                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.49.0/lumina-1.49.0.apk",
+                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.49.0/lumina-migrar-1.49.0.apk"
             }
 }
