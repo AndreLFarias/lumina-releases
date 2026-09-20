@@ -1,9 +1,9 @@
 {
-    "versionCode":  92,
-    "versionName":  "1.47.8",
-    "notes":  "Perola: corrige capitulos sumidos (bug no fallback AJAX). Tambem passa a mostrar o erro real quando a lista de capitulos falha ao montar, para diagnosticar a Safira",
+    "versionCode":  93,
+    "versionName":  "1.48.0",
+    "notes":  "Corrige Coral (capa/paginas), reescreve Bronze (site mudou de plataforma), corrige travamento ao abrir obra na Turquesa, trata Magenta como fonte fora do ar (captcha sem contorno) e adiciona filtro por fonte nos Salvos.",
     "apk":  {
-                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.47.8/lumina-1.47.8.apk",
-                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.47.8/lumina-migrar-1.47.8.apk"
+                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.48.0/lumina-1.48.0.apk",
+                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.48.0/lumina-migrar-1.48.0.apk"
             }
 }
