@@ -1,9 +1,9 @@
 {
-    "versionCode":  98,
-    "versionName":  "1.50.2",
-    "notes":  "Ambar: quando o desafio do CDN nao resolve, tenta mostrar so as imagens do capitulo antes de abrir a pagina inteira do site.",
+    "versionCode":  99,
+    "versionName":  "1.50.3",
+    "notes":  "Ambar: remove imagens de comentario/avatar que apareciam misturadas com as paginas do capitulo.",
     "apk":  {
-                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.50.2/lumina-1.50.2.apk",
-                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.50.2/lumina-migrar-1.50.2.apk"
+                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.50.3/lumina-1.50.3.apk",
+                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.50.3/lumina-migrar-1.50.3.apk"
             }
 }
