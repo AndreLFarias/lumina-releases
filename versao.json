@@ -1,9 +1,9 @@
 {
-    "versionCode":  97,
-    "versionName":  "1.50.1",
-    "notes":  "Ametista: leitura agora tenta mostrar so as imagens do capitulo (como as outras fontes) em vez da pagina inteira do site.",
+    "versionCode":  98,
+    "versionName":  "1.50.2",
+    "notes":  "Ambar: quando o desafio do CDN nao resolve, tenta mostrar so as imagens do capitulo antes de abrir a pagina inteira do site.",
     "apk":  {
-                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.50.1/lumina-1.50.1.apk",
-                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.50.1/lumina-migrar-1.50.1.apk"
+                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.50.2/lumina-1.50.2.apk",
+                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.50.2/lumina-migrar-1.50.2.apk"
             }
 }
