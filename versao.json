@@ -1,9 +1,9 @@
 {
-    "versionCode":  102,
-    "versionName":  "1.50.6",
-    "notes":  "Ambar: leitura via WebView agora carrega bem mais rapido (parava sempre nos 25s completos, mesmo quando a pagina ja tinha terminado de carregar).",
+    "versionCode":  103,
+    "versionName":  "1.50.7",
+    "notes":  "Ambar: corrigido capitulo que caia na pagina crua do site as vezes, e capa errada em obras muito acessadas.",
     "apk":  {
-                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.50.6/lumina-1.50.6.apk",
-                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.50.6/lumina-migrar-1.50.6.apk"
+                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.50.7/lumina-1.50.7.apk",
+                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.50.7/lumina-migrar-1.50.7.apk"
             }
 }
