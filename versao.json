@@ -1,9 +1,9 @@
 {
-    "versionCode":  101,
-    "versionName":  "1.50.5",
-    "notes":  "Corrige catalogo vazio da Cobre, paginas cortadas na Ambar e capitulo sem paginas na Borgonha (portao de anuncio novo do site). Aba Novidades atualizada com o historico completo de versoes.",
+    "versionCode":  102,
+    "versionName":  "1.50.6",
+    "notes":  "Ambar: leitura via WebView agora carrega bem mais rapido (parava sempre nos 25s completos, mesmo quando a pagina ja tinha terminado de carregar).",
     "apk":  {
-                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.50.5/lumina-1.50.5.apk",
-                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.50.5/lumina-migrar-1.50.5.apk"
+                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.50.6/lumina-1.50.6.apk",
+                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.50.6/lumina-migrar-1.50.6.apk"
             }
 }
