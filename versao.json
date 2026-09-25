@@ -1,9 +1,9 @@
 {
-    "versionCode":  99,
-    "versionName":  "1.50.3",
-    "notes":  "Ambar: remove imagens de comentario/avatar que apareciam misturadas com as paginas do capitulo.",
+    "versionCode":  100,
+    "versionName":  "1.50.4",
+    "notes":  "Coral: site esta em manutencao anunciada por ele mesmo (nao e bug do app) — agora mostra o aviso de fonte fora do ar em vez de erro generico.",
     "apk":  {
-                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.50.3/lumina-1.50.3.apk",
-                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.50.3/lumina-migrar-1.50.3.apk"
+                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.50.4/lumina-1.50.4.apk",
+                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.50.4/lumina-migrar-1.50.4.apk"
             }
 }
