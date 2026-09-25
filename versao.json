@@ -1,9 +1,9 @@
 {
-    "versionCode":  100,
-    "versionName":  "1.50.4",
-    "notes":  "Coral: site esta em manutencao anunciada por ele mesmo (nao e bug do app) — agora mostra o aviso de fonte fora do ar em vez de erro generico.",
+    "versionCode":  101,
+    "versionName":  "1.50.5",
+    "notes":  "Corrige catalogo vazio da Cobre, paginas cortadas na Ambar e capitulo sem paginas na Borgonha (portao de anuncio novo do site). Aba Novidades atualizada com o historico completo de versoes.",
     "apk":  {
-                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.50.4/lumina-1.50.4.apk",
-                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.50.4/lumina-migrar-1.50.4.apk"
+                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.50.5/lumina-1.50.5.apk",
+                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.50.5/lumina-migrar-1.50.5.apk"
             }
 }
