@@ -1,9 +1,9 @@
 {
-    "versionCode":  110,
-    "versionName":  "1.51.1",
-    "notes":  "Ambar: mais paciencia na leitura de capitulos longos (site espaca a liberacao das paginas).",
+    "versionCode":  111,
+    "versionName":  "1.51.2",
+    "notes":  "Ambar: tenta carregar o capitulo 2x antes de desistir (site as vezes encerra sozinho cedo demais).",
     "apk":  {
-                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.51.1/lumina-1.51.1.apk",
-                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.51.1/lumina-migrar-1.51.1.apk"
+                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.51.2/lumina-1.51.2.apk",
+                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.51.2/lumina-migrar-1.51.2.apk"
             }
 }
