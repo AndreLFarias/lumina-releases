@@ -1,9 +1,9 @@
 {
-    "versionCode":  109,
-    "versionName":  "1.51.0",
-    "notes":  "Novo: botao no leitor pra forcar leitura crua no site (Ambar/Ametista), pra quando a extracao normal vier incompleta.",
+    "versionCode":  110,
+    "versionName":  "1.51.1",
+    "notes":  "Ambar: mais paciencia na leitura de capitulos longos (site espaca a liberacao das paginas).",
     "apk":  {
-                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.51.0/lumina-1.51.0.apk",
-                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.51.0/lumina-migrar-1.51.0.apk"
+                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.51.1/lumina-1.51.1.apk",
+                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.51.1/lumina-migrar-1.51.1.apk"
             }
 }
