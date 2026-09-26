@@ -1,9 +1,9 @@
 {
-    "versionCode":  107,
-    "versionName":  "1.50.11",
-    "notes":  "Ambar: corrigido capitulo errado (a correcao anterior podia pegar dados do capitulo vizinho).",
+    "versionCode":  108,
+    "versionName":  "1.50.12",
+    "notes":  "Ambar: mais uma causa de capitulo incompleto corrigida (formatacao numero vs texto na conferencia).",
     "apk":  {
-                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.50.11/lumina-1.50.11.apk",
-                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.50.11/lumina-migrar-1.50.11.apk"
+                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.50.12/lumina-1.50.12.apk",
+                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.50.12/lumina-migrar-1.50.12.apk"
             }
 }
