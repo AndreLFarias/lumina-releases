@@ -1,9 +1,9 @@
 {
-    "versionCode":  111,
-    "versionName":  "1.51.2",
-    "notes":  "Ambar: tenta carregar o capitulo 2x antes de desistir (site as vezes encerra sozinho cedo demais).",
+    "versionCode":  112,
+    "versionName":  "1.51.3",
+    "notes":  "Ambar: corrigida causa real do corte sempre no mesmo tamanho (rolagem so mexia na janela, nao no quadro do leitor).",
     "apk":  {
-                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.51.2/lumina-1.51.2.apk",
-                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.51.2/lumina-migrar-1.51.2.apk"
+                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.51.3/lumina-1.51.3.apk",
+                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.51.3/lumina-migrar-1.51.3.apk"
             }
 }
