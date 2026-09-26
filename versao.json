@@ -1,9 +1,9 @@
 {
-    "versionCode":  105,
-    "versionName":  "1.50.9",
-    "notes":  "Ambar: corrigido capitulo longo ainda vindo incompleto (cache de pagina de desafio + pouca paciencia em capitulos grandes).",
+    "versionCode":  106,
+    "versionName":  "1.50.10",
+    "notes":  "Ambar: corrigida a causa real do capitulo cortado (recorte de paginas aceito cego, sem checar o capitulo completo).",
     "apk":  {
-                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.50.9/lumina-1.50.9.apk",
-                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.50.9/lumina-migrar-1.50.9.apk"
+                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.50.10/lumina-1.50.10.apk",
+                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.50.10/lumina-migrar-1.50.10.apk"
             }
 }
