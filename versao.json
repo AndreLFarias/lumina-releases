@@ -1,9 +1,9 @@
 {
-    "versionCode":  118,
-    "versionName":  "1.54.0",
-    "notes":  "Novo: barra de progresso no leitor enquanto o capitulo completa em segundo plano (Ambar/Ametista).",
+    "versionCode":  119,
+    "versionName":  "1.55.0",
+    "notes":  "Novo: barra de progresso de verdade na busca (quantidade real de fontes ja respondidas).",
     "apk":  {
-                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.54.0/lumina-1.54.0.apk",
-                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.54.0/lumina-migrar-1.54.0.apk"
+                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.55.0/lumina-1.55.0.apk",
+                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.55.0/lumina-migrar-1.55.0.apk"
             }
 }
