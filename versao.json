@@ -1,9 +1,9 @@
 {
-    "versionCode":  113,
-    "versionName":  "1.51.4",
-    "notes":  "Ambar: tenta rolagem nativa do navegador alem da via JavaScript.",
+    "versionCode":  114,
+    "versionName":  "1.51.5",
+    "notes":  "Ambar: rolagem nativa agora em passos pequenos, mais perto de um dedo de verdade arrastando.",
     "apk":  {
-                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.51.4/lumina-1.51.4.apk",
-                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.51.4/lumina-migrar-1.51.4.apk"
+                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.51.5/lumina-1.51.5.apk",
+                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.51.5/lumina-migrar-1.51.5.apk"
             }
 }
