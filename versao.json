@@ -1,9 +1,9 @@
 {
-    "versionCode":  112,
-    "versionName":  "1.51.3",
-    "notes":  "Ambar: corrigida causa real do corte sempre no mesmo tamanho (rolagem so mexia na janela, nao no quadro do leitor).",
+    "versionCode":  113,
+    "versionName":  "1.51.4",
+    "notes":  "Ambar: tenta rolagem nativa do navegador alem da via JavaScript.",
     "apk":  {
-                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.51.3/lumina-1.51.3.apk",
-                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.51.3/lumina-migrar-1.51.3.apk"
+                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.51.4/lumina-1.51.4.apk",
+                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.51.4/lumina-migrar-1.51.4.apk"
             }
 }
