@@ -1,9 +1,9 @@
 {
-    "versionCode":  116,
-    "versionName":  "1.53.0",
-    "notes":  "Ambar: capitulo carrega em duas fases -- leitura comeca rapido, resto completa sozinho em segundo plano enquanto voce le.",
+    "versionCode":  117,
+    "versionName":  "1.53.1",
+    "notes":  "Ambar: corrigido carregamento em segundo plano que desistia sozinho cedo demais.",
     "apk":  {
-                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.53.0/lumina-1.53.0.apk",
-                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.53.0/lumina-migrar-1.53.0.apk"
+                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.53.1/lumina-1.53.1.apk",
+                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.53.1/lumina-migrar-1.53.1.apk"
             }
 }
