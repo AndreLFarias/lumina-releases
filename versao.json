@@ -1,9 +1,9 @@
 {
-    "versionCode":  120,
-    "versionName":  "1.55.1",
-    "notes":  "Novels divididas em volumes agora seguem a ordem correta (volume por volume) e o capitulo mostra o volume.",
+    "versionCode":  121,
+    "versionName":  "1.56.0",
+    "notes":  "Nova fonte de novels (Lavanda). Novels em volumes na Ciano na ordem certa, com o volume no nome do capitulo. App mais leve: abertura mais rapida, obra abre mais rapido, listas longas e downloads sem travar.",
     "apk":  {
-                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.55.1/lumina-1.55.1.apk",
-                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.55.1/lumina-migrar-1.55.1.apk"
+                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.56.0/lumina-1.56.0.apk",
+                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.56.0/lumina-migrar-1.56.0.apk"
             }
 }
