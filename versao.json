@@ -1,9 +1,9 @@
 {
-    "versionCode":  119,
-    "versionName":  "1.55.0",
-    "notes":  "Novo: barra de progresso de verdade na busca (quantidade real de fontes ja respondidas).",
+    "versionCode":  120,
+    "versionName":  "1.55.1",
+    "notes":  "Novels divididas em volumes agora seguem a ordem correta (volume por volume) e o capitulo mostra o volume.",
     "apk":  {
-                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.55.0/lumina-1.55.0.apk",
-                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.55.0/lumina-migrar-1.55.0.apk"
+                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.55.1/lumina-1.55.1.apk",
+                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.55.1/lumina-migrar-1.55.1.apk"
             }
 }
