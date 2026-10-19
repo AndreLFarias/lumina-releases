@@ -1,9 +1,9 @@
 {
-    "versionCode":  122,
-    "versionName":  "1.56.1",
-    "notes":  "Âmbar: obras atualizadas voltam a mostrar os capítulos. Diagnóstico de fontes não lista mais fontes com o site fora do ar.",
+    "versionCode":  123,
+    "versionName":  "1.56.2",
+    "notes":  "Âmbar, Safira, Magenta, Ébano e Cobre voltam a carregar obras, capas e capítulos. Vinho avisa quando o episódio foi removido pelo site.",
     "apk":  {
-                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.56.1/lumina-1.56.1.apk",
-                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.56.1/lumina-migrar-1.56.1.apk"
+                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.56.2/lumina-1.56.2.apk",
+                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.56.2/lumina-migrar-1.56.2.apk"
             }
 }
