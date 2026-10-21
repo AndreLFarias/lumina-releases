@@ -1,9 +1,9 @@
 {
-    "versionCode":  123,
-    "versionName":  "1.56.2",
-    "notes":  "Âmbar, Safira, Magenta, Ébano e Cobre voltam a carregar obras, capas e capítulos. Vinho avisa quando o episódio foi removido pelo site.",
+    "versionCode":  124,
+    "versionName":  "1.56.3",
+    "notes":  "Âmbar: o app não se identifica mais como aplicativo para o site (causa do acesso bloqueado) e capas/páginas voltam a carregar pelo servidor de imagens do site.",
     "apk":  {
-                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.56.2/lumina-1.56.2.apk",
-                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.56.2/lumina-migrar-1.56.2.apk"
+                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.56.3/lumina-1.56.3.apk",
+                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.56.3/lumina-migrar-1.56.3.apk"
             }
 }
