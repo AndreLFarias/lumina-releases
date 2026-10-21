@@ -1,9 +1,9 @@
 {
-    "versionCode":  125,
-    "versionName":  "1.57.0",
-    "notes":  "Novas fontes Celeste (mangás em inglês), Oliva (mangás e novels em inglês) e Malva (light novels em espanhol, em PDF). Leitor de novel abre capítulos em PDF.",
+    "versionCode":  126,
+    "versionName":  "1.57.1",
+    "notes":  "Âmbar: capítulos abrem com todas as páginas e o app acessa o site como um leitor comum (uma visita por capítulo), evitando o bloqueio.",
     "apk":  {
-                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.57.0/lumina-1.57.0.apk",
-                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.57.0/lumina-migrar-1.57.0.apk"
+                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.57.1/lumina-1.57.1.apk",
+                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.57.1/lumina-migrar-1.57.1.apk"
             }
 }
