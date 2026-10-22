@@ -1,9 +1,9 @@
 {
-    "versionCode":  128,
-    "versionName":  "1.59.0",
-    "notes":  "Nova fonte Areia (light novels em inglês por volume): na 1ª vez de cada obra o app libera os volumes sozinho com uma tela de carregamento; depois é direto. Funciona com a tradução automática.",
+    "versionCode":  129,
+    "versionName":  "1.59.1",
+    "notes":  "Ametista: capítulos abrem no leitor do app com todas as páginas (antes vinham cortados ou com a tela preta).",
     "apk":  {
-                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.59.0/lumina-1.59.0.apk",
-                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.59.0/lumina-migrar-1.59.0.apk"
+                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.59.1/lumina-1.59.1.apk",
+                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.59.1/lumina-migrar-1.59.1.apk"
             }
 }
