@@ -1,9 +1,9 @@
 {
-    "versionCode":  127,
-    "versionName":  "1.58.0",
-    "notes":  "Tradução automática para português no próprio aparelho (offline e grátis): botão no leitor de novel e no de mangá (texto dos balões traduzido por cima da página). Na 1ª vez baixa o pacote do idioma (~30 MB).",
+    "versionCode":  128,
+    "versionName":  "1.59.0",
+    "notes":  "Nova fonte Areia (light novels em inglês por volume): na 1ª vez de cada obra o app libera os volumes sozinho com uma tela de carregamento; depois é direto. Funciona com a tradução automática.",
     "apk":  {
-                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.58.0/lumina-1.58.0.apk",
-                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.58.0/lumina-migrar-1.58.0.apk"
+                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.59.0/lumina-1.59.0.apk",
+                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.59.0/lumina-migrar-1.59.0.apk"
             }
 }
