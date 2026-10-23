@@ -1,9 +1,9 @@
 {
-    "versionCode":  131,
-    "versionName":  "1.59.3",
-    "notes":  "Âmbar: obras, capítulos e leitura voltam (cada pedido sai da página certa do site, o que evitava o bloqueio). Ametista volta a funcionar. Magenta: imagens não caem mais na verificação anti-robô.",
+    "versionCode":  132,
+    "versionName":  "1.59.4",
+    "notes":  "Ametista: sessão aberta pelo caminho testado. Âmbar: capítulos VIP mostram quando liberam e obras que mudaram de endereço voltam a carregar.",
     "apk":  {
-                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.59.3/lumina-1.59.3.apk",
-                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.59.3/lumina-migrar-1.59.3.apk"
+                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.59.4/lumina-1.59.4.apk",
+                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.59.4/lumina-migrar-1.59.4.apk"
             }
 }
