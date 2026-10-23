@@ -1,9 +1,9 @@
 {
-    "versionCode":  132,
-    "versionName":  "1.59.4",
-    "notes":  "Ametista: sessão aberta pelo caminho testado. Âmbar: capítulos VIP mostram quando liberam e obras que mudaram de endereço voltam a carregar.",
+    "versionCode":  133,
+    "versionName":  "1.60.0",
+    "notes":  "Atualizações: obras aparecem conforme cada fonte responde, listas ficam guardadas por 10 min e obra com o último capítulo já lido sai da lista. Âmbar: corrige obras que não carregavam e o aviso de fonte fora do ar; erros dizem em que etapa travou.",
     "apk":  {
-                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.59.4/lumina-1.59.4.apk",
-                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.59.4/lumina-migrar-1.59.4.apk"
+                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.60.0/lumina-1.60.0.apk",
+                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.60.0/lumina-migrar-1.60.0.apk"
             }
 }
