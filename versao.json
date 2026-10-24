@@ -1,9 +1,9 @@
 {
-    "versionCode":  133,
-    "versionName":  "1.60.0",
-    "notes":  "Atualizações: obras aparecem conforme cada fonte responde, listas ficam guardadas por 10 min e obra com o último capítulo já lido sai da lista. Âmbar: corrige obras que não carregavam e o aviso de fonte fora do ar; erros dizem em que etapa travou.",
+    "versionCode":  134,
+    "versionName":  "1.60.1",
+    "notes":  "Atualizações: o sininho abre na hora com o que o app já sabia e atualiza em seguida. Âmbar: o app só volta a perguntar ao site por uma obra depois de 1 hora, para evitar o bloqueio por excesso de acessos.",
     "apk":  {
-                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.60.0/lumina-1.60.0.apk",
-                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.60.0/lumina-migrar-1.60.0.apk"
+                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.60.1/lumina-1.60.1.apk",
+                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.60.1/lumina-migrar-1.60.1.apk"
             }
 }
