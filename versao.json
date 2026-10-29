@@ -1,9 +1,9 @@
 {
-    "versionCode":  134,
-    "versionName":  "1.60.1",
-    "notes":  "Atualizações: o sininho abre na hora com o que o app já sabia e atualiza em seguida. Âmbar: o app só volta a perguntar ao site por uma obra depois de 1 hora, para evitar o bloqueio por excesso de acessos.",
+    "versionCode":  135,
+    "versionName":  "1.61.0",
+    "notes":  "Animes: secao \u0027Animes da Temporada\u0027 no Inicio e aba \u0027Temporada\u0027 no Explorar (simulcast); \u0027Atualizados Recentemente\u0027 passa a listar as obras que acabaram de ganhar episodio; \u0027ver recentes\u0027 abre na aba certa; Esmeralda e Topazio abrem o episodio direto no player, com sinopse e titulos limpos; Rubi sem destaques repetidos no catalogo.",
     "apk":  {
-                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.60.1/lumina-1.60.1.apk",
-                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.60.1/lumina-migrar-1.60.1.apk"
+                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.61.0/lumina-1.61.0.apk",
+                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.61.0/lumina-migrar-1.61.0.apk"
             }
 }
