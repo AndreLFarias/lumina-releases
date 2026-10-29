@@ -1,9 +1,9 @@
 {
-    "versionCode":  136,
-    "versionName":  "1.61.1",
-    "notes":  "Leitor de manga: a leitura nao pula mais quando uma pagina termina de carregar (altura reservada pela proporcao real e rolagem recolocada no mesmo ponto; vale para capitulos baixados). Leitores escondem os botoes de navegacao do Android durante a leitura (deslize da borda para ve-los).",
+    "versionCode":  137,
+    "versionName":  "1.62.0",
+    "notes":  "Animes: o episodio continua de onde voce parou (a lista mostra \u0027Parou em mm:ss\u0027); episodio visto ate os creditos abre do comeco. Tela cheia do video gira para deitado sozinha e volta ao sair.",
     "apk":  {
-                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.61.1/lumina-1.61.1.apk",
-                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.61.1/lumina-migrar-1.61.1.apk"
+                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.62.0/lumina-1.62.0.apk",
+                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.62.0/lumina-migrar-1.62.0.apk"
             }
 }
