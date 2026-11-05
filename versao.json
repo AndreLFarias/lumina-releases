@@ -1,9 +1,9 @@
 {
-    "versionCode":  139,
-    "versionName":  "1.63.0",
-    "notes":  "Animes: vitrine rotativa, Explorar com ordenacao, letras e +18, temporadas ate 2023, nova tela do anime e controles grandes no player. Salvos separados em Quadrinhos, Novels e Animes. Nomes EN/JP reconhecidos entre fontes.",
+    "versionCode":  140,
+    "versionName":  "1.64.0",
+    "notes":  "Animes: vitrine do Inicio maior e em alta resolucao; novo Continuar Assistindo com o episodio, a barra de progresso e o tempo onde parou, escondendo animes ja terminados.",
     "apk":  {
-                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.63.0/lumina-1.63.0.apk",
-                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.63.0/lumina-migrar-1.63.0.apk"
+                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.64.0/lumina-1.64.0.apk",
+                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.64.0/lumina-migrar-1.64.0.apk"
             }
 }
