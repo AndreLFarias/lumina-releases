@@ -1,9 +1,9 @@
 {
-    "versionCode":  138,
-    "versionName":  "1.62.1",
-    "notes":  "Animes: populares reais e catalogo sem repeticao; Explorar sem duplicados; capas genericas de \u0027sem capa\u0027 substituidas; fonte +18 bloqueada voltou.",
+    "versionCode":  139,
+    "versionName":  "1.63.0",
+    "notes":  "Animes: vitrine rotativa, Explorar com ordenacao, letras e +18, temporadas ate 2023, nova tela do anime e controles grandes no player. Salvos separados em Quadrinhos, Novels e Animes. Nomes EN/JP reconhecidos entre fontes.",
     "apk":  {
-                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.62.1/lumina-1.62.1.apk",
-                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.62.1/lumina-migrar-1.62.1.apk"
+                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.63.0/lumina-1.63.0.apk",
+                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.63.0/lumina-migrar-1.63.0.apk"
             }
 }
