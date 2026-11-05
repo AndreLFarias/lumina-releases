@@ -1,9 +1,9 @@
 {
-    "versionCode":  137,
-    "versionName":  "1.62.0",
-    "notes":  "Animes: o episodio continua de onde voce parou (a lista mostra \u0027Parou em mm:ss\u0027); episodio visto ate os creditos abre do comeco. Tela cheia do video gira para deitado sozinha e volta ao sair.",
+    "versionCode":  138,
+    "versionName":  "1.62.1",
+    "notes":  "Animes: populares reais e catalogo sem repeticao; Explorar sem duplicados; capas genericas de \u0027sem capa\u0027 substituidas; fonte +18 bloqueada voltou.",
     "apk":  {
-                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.62.0/lumina-1.62.0.apk",
-                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.62.0/lumina-migrar-1.62.0.apk"
+                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.62.1/lumina-1.62.1.apk",
+                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.62.1/lumina-migrar-1.62.1.apk"
             }
 }
