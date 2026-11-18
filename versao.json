@@ -1,9 +1,9 @@
 {
-    "versionCode":  143,
-    "versionName":  "1.64.3",
-    "notes":  "Âmbar volta a carregar capas, capítulos e páginas; nova tela de verificação do site quando a fonte pede confirmação.",
+    "versionCode":  144,
+    "versionName":  "1.64.4",
+    "notes":  "Âmbar: a tela da obra não fica mais carregando para sempre; o navegador interno da fonte se reinicia sozinho se travar.",
     "apk":  {
-                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.64.3/lumina-1.64.3.apk",
-                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.64.3/lumina-migrar-1.64.3.apk"
+                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.64.4/lumina-1.64.4.apk",
+                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.64.4/lumina-migrar-1.64.4.apk"
             }
 }
