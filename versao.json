@@ -1,9 +1,9 @@
 {
-    "versionCode":  142,
-    "versionName":  "1.64.2",
-    "notes":  "Corrige controles do player duplicados (app e site aparecendo juntos) em alguns sites de anime.",
+    "versionCode":  143,
+    "versionName":  "1.64.3",
+    "notes":  "Âmbar volta a carregar capas, capítulos e páginas; nova tela de verificação do site quando a fonte pede confirmação.",
     "apk":  {
-                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.64.2/lumina-1.64.2.apk",
-                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.64.2/lumina-migrar-1.64.2.apk"
+                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.64.3/lumina-1.64.3.apk",
+                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.64.3/lumina-migrar-1.64.3.apk"
             }
 }
