@@ -1,9 +1,9 @@
 {
-    "versionCode":  145,
-    "versionName":  "1.64.5",
-    "notes":  "Âmbar: capas e páginas dos capítulos voltaram a aparecer (também nos downloads).",
+    "versionCode":  146,
+    "versionName":  "1.64.6",
+    "notes":  "Âmbar: ao abrir uma obra, a tela não troca mais para outra obra depois de carregar.",
     "apk":  {
-                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.64.5/lumina-1.64.5.apk",
-                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.64.5/lumina-migrar-1.64.5.apk"
+                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.64.6/lumina-1.64.6.apk",
+                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.64.6/lumina-migrar-1.64.6.apk"
             }
 }
