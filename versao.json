@@ -1,9 +1,9 @@
 {
-    "versionCode":  146,
-    "versionName":  "1.64.6",
-    "notes":  "Âmbar: ao abrir uma obra, a tela não troca mais para outra obra depois de carregar.",
+    "versionCode":  147,
+    "versionName":  "1.65.0",
+    "notes":  "Salvos com seção Recentes; animes mudam de prateleira sozinhos; episódios direto na tela com temporadas; abas nas Atualizações; capas da Esmeralda.",
     "apk":  {
-                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.64.6/lumina-1.64.6.apk",
-                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.64.6/lumina-migrar-1.64.6.apk"
+                "geral":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.65.0/lumina-1.65.0.apk",
+                "adulto":  "https://github.com/AndreLFarias/lumina-releases/releases/download/v1.65.0/lumina-migrar-1.65.0.apk"
             }
 }
